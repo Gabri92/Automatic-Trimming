@@ -9,4 +9,4 @@ Control of the platform's hardware
 Hardware: Arduino mkr Wifi 1010
 IDE: Visual Studio Code
 
-N.B. = The software development is still ongoing, due to the lack of part of the hardware. In particular, the control part is currently missing.
+N.B. = The software development is still ongoing, due to the lack of part of the hardware. In particular, the control part is currently missing and the communication part is in progress.
