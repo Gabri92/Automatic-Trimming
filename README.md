@@ -6,7 +6,8 @@ Managing of the communication between the controller and a FastApi server
 Managing of serial communication with a vision system
 Communication between the controller and a thingsboard interface, via MQTT
 Control of the platform's hardware
-Hardware: Arduino mkr Wifi 1010
-IDE: Visual Studio Code
+
+<b>Hardware</b>: Arduino mkr Wifi 1010<br>
+<b>IDE</b>: Visual Studio Code
 
 N.B. = The software development is still ongoing, due to the lack of part of the hardware. In particular, the control part is currently missing and the communication part is in progress.
